@@ -1,0 +1,23 @@
+From 80dee253585c6b384f927b9f7ec3adf82c9a72e3 Mon Sep 17 00:00:00 2001
+From: deepika <pulugamdeepika@gmail.com>
+Date: Mon, 6 Mar 2017 14:43:42 +0530
+Subject: [PATCH] middle3 printf added
+
+---
+ main.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/main.c b/main.c
+index e49649b..e885eb1 100644
+--- a/main.c
++++ b/main.c
+@@ -4,5 +4,6 @@ int main()
+ printf("starting program");
+ printf("middle program");
+ printf("middle2");
++printf("middle3");
+ return 0;
+ }
+-- 
+1.9.1
+
