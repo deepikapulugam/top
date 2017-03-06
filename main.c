@@ -2,6 +2,7 @@
 #include<math.h>
 int main()
 {
+int a,b,c;
 printf("main");
 printf("starting program");
 printf("middle program");
