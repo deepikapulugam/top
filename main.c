@@ -3,6 +3,7 @@
 int main()
 {
 int a,b,c;
+  printf("i changed ur code"):
 printf("main");
 printf("starting program");
 printf("middle program");
